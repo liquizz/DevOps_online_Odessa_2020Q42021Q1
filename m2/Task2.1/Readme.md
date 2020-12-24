@@ -11,20 +11,20 @@ Hyper-V has a nested virtualization and cluster rolling.
 ## Part 2. Work with Virtualbox.
 I have created some screenshots of my task completion, and I have attached them below.
 
-Task 1.6
+Task 1.6  
 ![Task 1.6](./images/t1_6.png)
 
-Task 1.7
+Task 1.7  
 ![Task 1.7](./images/t1_7.png)
 
-Task 1.8
+Task 1.8  
 ![Task 1.8](./images/t1_8.png)
 
 
-Task 2.2
+Task 2.2  
 ![Task 2.2](./images/t2_2.png)
 
-Task 2.4
+Task 2.4  
 ![Task 2.4](./images/t2_4.png)
 Table of possible connections:
  - Via NAT
@@ -34,5 +34,5 @@ Table of possible connections:
 
 ## Part 3. Work with Vagrant.
 
-Task 3.8
+Task 3.8  
 ![Task 1.8](./images/t3_8.png)
