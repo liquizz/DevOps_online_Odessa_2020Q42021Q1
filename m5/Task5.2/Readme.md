@@ -16,8 +16,8 @@ Password: Generally password is not used, hence it is empty/blank. It can store 
 Group ID (GID): Each user must be assigned a group ID. You can see this number in your /etc/passwd file.  
 Group List: It is a list of user names of users who are members of the group. The user names, must be separated by commas.  
 
-![Task 5.2.1.1](./images/t5_2_1_1.png)
-![Task 5.2.1.1](./images/t5_2_1_2.png)
+![Task 5.2.1.1](./images/t5_2_1_1.png)  
+![Task 5.2.1.1](./images/t5_2_1_2.png)  
 
 #### Task 5.2.2
 UID is stands for User ID, and it's ranges are:  
@@ -40,7 +40,7 @@ This can be defined in /etc/group
 #### Task 5.2.4
 It can be found in file /etc/group.  
 
-![Task 5.2.4](./images/t5_2_4.png)
+![Task 5.2.4](./images/t5_2_4.png)  
 
 #### Task 5.2.5
 adduser {username}  
@@ -52,7 +52,7 @@ example of command is usermod -l <newname> -d /home/<newname> -m <oldname>
 #### Task 5.2.7
 skel_dir is a directory, which is used to initiate new user directory when user is created.
 Here's quick example of it.  
-![Task 5.2.7](./images/t5_2_7.png)
+![Task 5.2.7](./images/t5_2_7.png)  
 
 #### Task 5.2.8
 This task can be done using userdel command, and for complete deletion from system wwe can use
@@ -72,7 +72,7 @@ passwd --delete <username>
 
 #### Task 5.2.11
 ls -ld <directory>  
-![Task 5.2.11](./images/t5_2_11.png)
+![Task 5.2.11](./images/t5_2_11.png)  
 Fields here:  
 Permissions, hard links, owner name, owner group, size (bytes), last modification date, dir name.
 
@@ -85,8 +85,8 @@ Permission class
 #### Task 5.2.14
 Wwe can use chown to give file ownership and chmod to change access mode
 Screenshots of terminal are shown below.  
-![Task 5.2.14.1](./images/t5_2_13_1.png)
-![Task 5.2.14.2](./images/t5_2_13_2.png)
+![Task 5.2.14.1](./images/t5_2_13_1.png)  
+![Task 5.2.14.2](./images/t5_2_13_2.png)  
 
 #### Task 5.2.15
 We can use octal representation of rights, for example, I've been using 777 as rwx rwx rwx for change permissions command in previous task, so It's an example of this type of perms.  
